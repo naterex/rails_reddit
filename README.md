@@ -1,28 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a project using Ruby on Rails to make a link aggregator site similar to {Reddit}[http://www.reddit.com]
 
-Things you may want to cover:
+Users can sign up, submit a link, as well as comment and upvote/downvote link submissions.
 
-* Ruby version
+I created this project to teach myself more about creating active record associations and how to use the gem Devise.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Ruby version: 2.2.1
+Rails version: 4.2.0
+Database: SQLite
+Frontend: Bootstrap
